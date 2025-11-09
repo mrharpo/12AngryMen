@@ -1,44 +1,26 @@
 Title: Twelve Angry Men
+By: REGINALD ROSE
+Based upon: the television show, "Twelve Angry Men"
 Author: SHERMAN L. SERGEL
 Credit: 
   ADAPTED: FROM THE TELEVISION SHOW BY REGINALD ROSE
   ISBN: 0-87 129-327-7
 /*
-Stage Version by SHERMAN 1. SERGEL
+Stage Version by SHERMAN L. SERGEL
 Adapted from the Television
 Show of the Same Name
 Initially presented on
 STUDIO ONE, CBS-TV
 THE DRAMATIC PUBLISHING COMPANY 
 *** NOTICE ***
-The amateur and stock acting rights to this work are controlled exclusively by THE DRAMATIC PUBLISHING COMPANY without whose
-pennission in writing no performance of it may be given. Royalty fees
-are given in our current catalogue and are subject to change without
-notice. Royalty must be paid every time a play is performed whether or
-not it is presented for profit and whether or not admission is charged. A
-play is perfonned anytime it is acted before an audience. All inquiries
-concerning amateur and stock rights should be addressed to:
-DRAMATIC PUBLISIllNG
-P. O. Box 129., Woodstock, lllinois 60098
-COPYRIGHT LAW GIVES THE AUTHOR OR THE AUTHOR'S AGENT
-THE EXCLUSIVE RIGHT TO MAKE COPIES. This law provides authors
-with a fair return for their creative efforts. Authors earn their living from
-the royalties they receive from book sales and from the performance of
-their work. Conscientious ohservance of copyright law is not only ethical, it
-encourages authors to continue their creative work. This work is fully
-protected by copyright. No alterations, deletions or substitutions may be
-made in the work without the prior written consent of the publisher. No
-part of this work may be reproduced or transmitted in any form or by
-any means, electronic or mechanical, including photocopy, recording,
-videotape, film, or any information storage and retrieval system, without
-pennission in writing from the publisher. It may not be performed either
-by professionals or amateurs without payment of royalty. All rights, including but not limited to the professional, motion picture, radio, television, videotape, foreign language, tabloid, recitation, lecturing, publication, and reading are reserved. On all programs this notice should appear:
-"Produced by special arrangement with
-THE DRAMATIC PUBLISHING COMPANY of Woodstock, lllinois"
-«:IMCMLV by
-REGINALD ROSE
-Based upon the television show,
-twelve Angry Men"
+The amateur and stock acting rights to this work are controlled exclusively by THE DRAMATIC PUBLISHING COMPANY without whose pennission in writing no performance of it may be given. Royalty fees are given in our current catalogue and are subject to change without notice. Royalty must be paid every time a play is performed whether or not it is presented for profit and whether or not admission is charged. A play is perfonned anytime it is acted before an audience. All inquiries concerning amateur and stock rights should be addressed to:
+    DRAMATIC PUBLISIllNG
+    P. O. Box 129., Woodstock, lllinois 60098
+    COPYRIGHT LAW GIVES THE AUTHOR OR THE AUTHOR'S AGENT
+
+THE EXCLUSIVE RIGHT TO MAKE COPIES. This law provides authors with a fair return for their creative efforts. Authors earn their living from the royalties they receive from book sales and from the performance of their work. Conscientious ohservance of copyright law is not only ethical, it encourages authors to continue their creative work. This work is fully protected by copyright. No alterations, deletions or substitutions may be made in the work without the prior written consent of the publisher. No part of this work may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, videotape, film, or any information storage and retrieval system, without pennission in writing from the publisher. It may not be performed either by professionals or amateurs without payment of royalty. All rights, including but not limited to the professional, motion picture, radio, television, videotape, foreign language, tabloid, recitation, lecturing, publication, and reading are reserved. On all programs this notice should appear: "Produced by special arrangement with THE DRAMATIC PUBLISHING COMPANY of Woodstock, lllinois" 
+
+«:IMCMLV 
 «:I Renewed MCMLxxxm by
 NANCY SERGEL
 Printed in the United States of America
@@ -50,7 +32,7 @@ A Play in Three Acts
 FOR FIFTEEN MEN
 CHARACTERS
 FOREMAN OF THE JURY
-JUROR No. Two
+JUROR No. TWO
 JUROR No. THREE
 JUROR No. FOUR
 JUROR No. FNE
@@ -64,142 +46,54 @@ JUROR No. TWELVE
 GUARD (bit part)
 JUDGE (bit part) ) offstage voices
 CLERK (bit part)
+
 PLACE : A iury room.
 TIME: The present. Summer.
+
 SYNOPSIS
-ACT ONE : LAte afternoon.
-ACT TWO : A second or two Idter.
-ACT THREE: Immediately foilowing Act Two. 
-NOTES ON CHARACTERS
-AND COSTUMES
-FOREMAN: He is a small, petty man who is impressed with
-the authority he has and handles himself quite formally. He is
-not overly bright, but dogged.
-JUROR NO. 1WO: He is a meek, hesitant man who finds it
-difficult to maintain any opinions of his own. He is easily
-swayed and usually adopts the opinion of the last person to
-whom he has spoken.
-JUROR NO. THREE: He is a very strong, very forceful, extremely opinionated man within whom can be detected a
-streak of sadism. Also, he is a humorless man who is intolerant
-of opinions other than his own, and accustomed to forcing his
-wishes and views upon others.
-JUROR NO. FOUR: He seems to be a man of wealth and
-position, and a practiced speaker who presents himself well at
-all times. He seems to feel a little bit above the rest of the
-jurors. His only concern is with the facts in this case and he
-is appalled with the behavior of the others.
-JUROR NO. FIVE: He is a naive, very frightened young man
-who takes his obligations in this case very seriously but who
-finds it difficult to speak up when his elders have the floor.
-JUROR NO. SIX: He is an honest but dull-witted man who
-comes lipon his decisions slowly and carefully. He is a man
-who finds it difficult to create positive opinions, but who must
-listen to and digest and accept those opinions offered by others
-which appeal to him most.
-JUROR NO. SEVEN: He is a loud, Bashy, glad-handed salesman type who has more important things to do than to sit on
-a jury. He is quick to show temper and equally quick to form
-opinions on things about which he knows nothing. He is a
-bully, and, of course, a coward.
-4 
-JUROR NO. EIGHT: He is a qui et, thoughtful, gentle mana man who sees all sides of every question and constantly seeks
-the truth. He is a man of strength tempered with compassion.
-Above all, he is a man who wants justice to be done, and will
-fight to see that it is.
-JUROR NO. NINE: He is a mild, gentle old man, long since
-defeated by life, and now merely waiting to die. He recognizes
-himself for what he is, and mourns the days when it would
-have been possible to be courageous without shielding himself
-behind his many years.
-JUROR NO. TEN: He is an angry, bitter man- a man who
-antagonizes almost at sight. He is also a bigot who places no
-values on any human life save his own. Here is a man who
-has been nowhere and is going nowhere and knows it deep
-within him.
-JUROR NO. ELEVEN: He is a refugee from Europe. He
-speaks with an accent and is ashamed, humble, almost subservient to the people around him. He will honestly seek justice
-because he has suffered through so much injustice.
-JUROR NO. TWELVE: He is a slick, bright advertising man
-who thinks of human beings in terms of percentages, graphs
-and polls, and has no real understanding of people. He is a
-superficial snob, but trying to be a good fellow.
-GUARD: This is a bit part. He can be any age and wears a
-uniform.
-COSTUMES: The jurors wear everyday business clothes suitable for summer. JUROR NO. FIVE wears an expensively-tailored
-suit. JUROR NO. SEVEN'S clothes are flashy. JUROR NO. TWELVE
-dresses smartly but in good taste.
-5 
+
+ACT ONE : Late afternoon.
+ACT TWO : A second or two later.
+ACT THREE: Immediately following Act Two. 
+
+NOTES ON CHARACTERS AND COSTUMES
+
+FOREMAN: He is a small, petty man who is impressed with the authority he has and handles himself quite formally. He is not overly bright, but dogged.
+JUROR NO. TWO: He is a meek, hesitant man who finds it difficult to maintain any opinions of his own. He is easily swayed and usually adopts the opinion of the last person to whom he has spoken.
+JUROR NO. THREE: He is a very strong, very forceful, extremely opinionated man within whom can be detected a streak of sadism. Also, he is a humorless man who is intolerant
+of opinions other than his own, and accustomed to forcing his wishes and views upon others.
+JUROR NO. FOUR: He seems to be a man of wealth and position, and a practiced speaker who presents himself well at all times. He seems to feel a little bit above the rest of the jurors. His only concern is with the facts in this case and he is appalled with the behavior of the others.
+JUROR NO. FIVE: He is a naive, very frightened young man who takes his obligations in this case very seriously but who finds it difficult to speak up when his elders have the floor.
+JUROR NO. SIX: He is an honest but dull-witted man who comes lipon his decisions slowly and carefully. He is a man who finds it difficult to create positive opinions, but who must listen to and digest and accept those opinions offered by others which appeal to him most.
+JUROR NO. SEVEN: He is a loud, Bashy, glad-handed salesman type who has more important things to do than to sit on a jury. He is quick to show temper and equally quick to form opinions on things about which he knows nothing. He is a bully, and, of course, a coward. 
+JUROR NO. EIGHT: He is a qui et, thoughtful, gentle mana man who sees all sides of every question and constantly seeks the truth. He is a man of strength tempered with compassion. Above all, he is a man who wants justice to be done, and will fight to see that it is.
+JUROR NO. NINE: He is a mild, gentle old man, long since defeated by life, and now merely waiting to die. He recognizes himself for what he is, and mourns the days when it would have been possible to be courageous without shielding himself behind his many years.
+JUROR NO. TEN: He is an angry, bitter man- a man who antagonizes almost at sight. He is also a bigot who places no values on any human life save his own. Here is a man who has been nowhere and is going nowhere and knows it deep within him.
+JUROR NO. ELEVEN: He is a refugee from Europe. He speaks with an accent and is ashamed, humble, almost subservient to the people around him. He will honestly seek justice because he has suffered through so much injustice.
+JUROR NO. TWELVE: He is a slick, bright advertising man who thinks of human beings in terms of percentages, graphs and polls, and has no real understanding of people. He is a superficial snob, but trying to be a good fellow.
+GUARD: This is a bit part. He can be any age and wears a uniform.
+
+COSTUMES: The jurors wear everyday business clothes suitable for summer. JUROR NO. FIVE wears an expensively-tailored suit. JUROR NO. SEVEN'S clothes are flashy. JUROR NO. TWELVE dresses smartly but in good taste.
+
 CHART OF STAGE POSITIONS
-UC
-R. ItC C LC L
-DUC DC DLe
-c:URTAiN--i:i • .-E-----
-FOOTUCOH'TS
+
 STAGE POSITIONS
-Upstage means away from the footlights, downstage means
-toward the footlights, and right and left are used with reference to the actor as he faces the audience. R means right, L
-means left, u means liP, D means down, c means center, and
-these abbreviations are used in combination, as: U R for liP
-right, R C for right center, D Lefor down left center, etc.
-One will note that a position designated on the stage refers to
-a general territory, rather than to a given point.
-NOTE: Before starting rehearsals, chalk off your stage or
-rehearsal space as indicated above in the Chart of Stage Positions. Then teach your actors the meanings and positions of
-these fundamental terms of stage movement by having them
-walk from one position to another until they are familiar with
-them. The use of these abbreviated terms in directing the play
-saves time, speeds up rehearsals, and reduces the amount of
-explanation the director bas to give to his actors.
-6 
+Upstage means away from the footlights, downstage means toward the footlights, and right and left are used with reference to the actor as he faces the audience. R means right, L means left, u means liP, D means down, c means center, and these abbreviations are used in combination, as: U R for liP right, R C for right center, D Lefor down left center, etc. One will note that a position designated on the stage refers to a general territory, rather than to a given point. NOTE: Before starting rehearsals, chalk off your stage or rehearsal space as indicated above in the Chart of Stage Positions. Then teach your actors the meanings and positions of these fundamental terms of stage movement by having them walk from one position to another until they are familiar with them. The use of these abbreviated terms in directing the play saves time, speeds up rehearsals, and reduces the amount of explanation the director bas to give to his actors.
+
 STAGE CHART
-t.t.l166l16
-TA8LE AND C .. AIRS I c>
-\l \l \l
-LINE
-FOOT l.1(,\\1 &
-PROPERTIES
-GENERAL: Long conference table and twelve chairs, electric
-clock, water cooler, container for paper cups, wastebasket,
-three other straight chairs, pads of paper, pencils and ashtrays
-on table. NOTE: Some of the jurors carry cigarettes and
-matches; JUROR NO. FIVE carries a pipe, matches and pouch of
-tobacco. Smoking is optional.
+GENERAL: Long conference table and twelve chairs, electric clock, water cooler, container for paper cups, wastebasket, three other straight chairs, pads of paper, pencils and ashtrays on table. NOTE: Some of the jurors carry cigarettes and matches; JUROR NO. FIVE carries a pipe, matches and pouch of tobacco. Smoking is optional.
 SEVEN: Pack of gum.
-GUARD: Key for door, switch knife with tag, diagram of
-apartment.
+GUARD: Key for door, switch knife with tag, diagram of apartment.
 TEN: Handkerchief.
 FOUR: Comb, handkerchief, glasses.
 EIGHT: Switch knife (identical to one brought in by Guard).
 TWO: Box of cough drops, watch, glasses, handkerchief.
+
 PRODUCTION NOTE
-Nothing adds more to the polish of a production than the
-quick picking up of cues. Unless there is a definite reason for
-a pause, train your actors to come in with their speeches "on
-the heels," so to speak, of the preceding speeches. When a
-production lags, audience interest likewise will lag.
-It is always advisable during the last week of rehearsals to
-hold one or more sessions during which the actors merely sit
-around in a circle and go through lines only with the express
-purpose of snapping up cues.
-7 
+Nothing adds more to the polish of a production than the quick picking up of cues. Unless there is a definite reason for a pause, train your actors to come in with their speeches "on the heels," so to speak, of the preceding speeches. When a production lags, audience interest likewise will lag. It is always advisable during the last week of rehearsals to hold one or more sessions during which the actors merely sit around in a circle and go through lines only with the express purpose of snapping up cues.
+
 NOTE
-Twelve Angry Men may also be performed as Twelve Angry
-Women. Or by using a combination of these two editions, it can
-be staged with a mixed cast as Twelve Angry Jurors.
-Should you wish to produce the play using a cast of eight
-women and five men, you would order eight copies of Code T43
-(Twelve Angry Women) and five copies of Code T42 (Twelve
-Angry Men). Distribute the parts to suit the individual talents of
-the particular performers. You may use any combination of men
-and women totaling thirteen.
-Because the pagination of the two editions differs, some directors prefer to order all one version and only one copy of the
-other version, notating changes in the individual scripts where
-necessary. The choice is yours. We do encourage you to order a
-preview copy of each edition in order to determine what will
-best serve your particular requirements.
-The key parts to watch in casting are the parts of Jurors #3 and
-#8. These should probably be played by men, if you have them
-available--though any combination of men and women you have
-available will work. 
+Twelve Angry Men may also be performed as Twelve Angry Women. Or by using a combination of these two editions, it can be staged with a mixed cast as Twelve Angry Jurors. Should you wish to produce the play using a cast of eight women and five men, you would order eight copies of Code T43 (Twelve Angry Women) and five copies of Code T42 (Twelve Angry Men). Distribute the parts to suit the individual talents of the particular performers. You may use any combination of men and women totaling thirteen. Because the pagination of the two editions differs, some directors prefer to order all one version and only one copy of the other version, notating changes in the individual scripts where necessary. The choice is yours. We do encourage you to order a preview copy of each edition in order to determine what will best serve your particular requirements. The key parts to watch in casting are the parts of Jurors #3 and #8. These should probably be played by men, if you have them available--though any combination of men and women you have available will work. 
 */
 
 # ACT ONE
@@ -571,7 +465,7 @@ He's nineteen years old.
 
 THREE
 That's old enough. He knifed his own father. Four 
-Act I Twelve Angry Men Page 15
+[[page 15]]
 inches into the chest. An innocent little nineteen-yea.r-old
 kid.
 
@@ -640,7 +534,7 @@ EIGHT
 I want to talk for a while. Look-this boy's been kicked around all his life. You know- living in a slum-his mother dead since he was nine. That's not a very good head. start. He's a tough, angry kid. You know why slum kids get that way? Because we knock 'em over the head once a day, every day. I think maybe we owe him a few words. That's all.
 (Looks arollnd table. He is met by cold looks. NINE nods slowly while FOUR begins to comb his hm.)
 
-Page 16 Twelve Angry Men Act I
+[[page 16]]
 
 FOUR
 AlL right, it's hard, sure-it was hard for me. Everything I've got I fought for. I worked my way through coll~e. That was a long time ago, and perhaps you do forget. I fought, y~. but I Rever killed.
@@ -691,7 +585,7 @@ Sure.
 
 FOUR
 If we're going to discuss this case, why, let's discuss the facts.
-Act I Twelve Angry Men Page 17
+[[page 17]]
 
 FOREMAN
 I think that's a good point. We have a job to do. Let's do it.
@@ -776,7 +670,7 @@ TWO
 Oh. Well ...
 (There is a long pallse.)
 I just think he's guilty. I thought it was obvious.
-Page 18 Twelve Angry Men Act I
+[[page 18]]
 
 EIGHT
 In what way was it obvious?
@@ -830,11 +724,11 @@ FOUR
 That's true enough.
 
 FIVE
-I suppose, but the cishier, didn't. remember him. '
+I suppose, but the cashier, didn't remember him.
 
 THREE
 And the ticket taker didn't, either. 
-Act I Twelve Angry Men Page 19
+[[page 19]]
 
 TEN
 Look-what about the woman across the street? If her
@@ -906,7 +800,7 @@ We did.
 
 FOUR
 And weren't you able to see what happened on the other side? 
-Page 20 Twelve Angry Men Act 1
+[[page 20]]
 
 EIGHT
 I didn't see as well as they told me I would see, but I did see what happened on the other side.
@@ -981,7 +875,7 @@ And they sent him to reform school for stabbing someone!
 
 SEVEN
 (with sarcasm). This is a very fine boy.
-Act I Twelve Angry Men Page 21
+[[page 21]]
 
 EIGHT
 Ever since he was five years old his father beat him up regularly. He used his fists.
@@ -1039,7 +933,7 @@ I can understand this sensitivity.
 
 FOREMAN
 Now let's stop the bickering.
-Page 22 Twelve Angry Men
+[[page 22]]
 
 TWELVE
 We're wasting time.
@@ -1104,7 +998,7 @@ Now let's get the sequence of events right as they relate to the switch knife.
 
 TWELVE
 The boy admits going out of his house at eight o'clock, after being slapped by his father,
-Act I T wei v e A n g r y Men Page 23
+[[page 23]]
 
 EIGHT
 Or punched.
@@ -1153,9 +1047,8 @@ No. I'm saying that it's possible that the boy lost the knife, and that someone 
 
 FOUR
 (standing back to allow others to see)
-Take a look at 
-Page 24 Twelve Angry Men Act I
-that knife. It's a very strange knife. I've never seen one like it before in my life. Neither had the storekeeper who sold it to him.
+Take a look at that knife. It's a very strange knife. I've never seen one like it before in my life. Neither had the storekeeper who sold it to him.
+[[page 24]]
 (EIGHT reaches casually into his pocket and withdraws an object. No one notices him. He stands up.)
 Aren't you trying to make us accept a pretty incredible coincidence?
 
@@ -1220,7 +1113,7 @@ Really, not even once?
 
 ELEVEN
 We didn't have movies. 
-Act I Twelve Angry Men Page 25
+[[page 25]]
 
 FOUR
 Oh.
@@ -1302,7 +1195,7 @@ The woman across the el tracks-she saw it!
 
 SEVEN
 We know he bought a switch knife that Olght and we don't know where he really was. At the movies?
-Page 26 Twelve Angry Men Act I
+[[page 26]]
 
 FOREMAN
 Earlier that night the kid and his father did have a fight.
@@ -1360,29 +1253,27 @@ Please.
 (Fllmbles with one ballot.)
 Six guilty.
 Guilty. Guilty. Guilty.
-(Pallses for a moment at tenth ballot
-and then reads.)
+(Pallses for a moment at tenth ballot and then reads.)
 Not guilty.
-(THREE slams his hand down
-hard on table. EIGHT starts for table, as FOREMAN reads
-final ballot.)
+(THREE slams his hand down hard on table. EIGHT starts for table, as FOREMAN reads final ballot.)
 Guilty.
 
 TEN
-(an grit y)
+(angrily)
 How do you like that!
 
 SEVEN
 (standing, snarling)
-Who was it? I think we have a
-right to know.
-(Looks abollt. No one moves.)
+Who was it? I think we have a right to know.
+(Looks about. No one moves.)
 
-CURTAIN 
-ACT TWO
-AT RISE OF CURTAIN: It is only a second or two later. The
-JURORS are in the same positions as they were at the end of
-Act One.)
+Curtain
+
+[[page 27]]
+
+# ACT TWO
+
+AT RISE OF CURTAIN: It is only a second or two later. The JURORS are in the same positions as they were at the end of Act One.
 
 
 THREE
@@ -1391,9 +1282,8 @@ All right! Who did it? What idiot changed his vote?
 
 EIGHT
 Is that the way to talk about a man's life?
-(Sits at his
-place again.)
 
+Sits at his place again.
 
 THREE
 Whose life are you talking about? The life of the dead man or the life of a murderer?
@@ -1418,7 +1308,8 @@ THREE
 What do you mean? There are no secrets in here! I know who it was.
 (Turns to FIVE.) What's the matter with you? You come in here and you vote guilty and then this-
 ( Nods toward EIGHT. )-slick preacher starts to tear your heart out with stories about a poor little kid who just couldn't help becoming a murderer. So you change your vote. If that isn't the most sickening--
-(FIVE edges away in his chair.)
+
+FIVE edges away in his chair.
 
 FOREMAN
 Now hold it.
@@ -1431,7 +1322,7 @@ I agree with you that the man is guilty, but let's be fair.
 THREE
 Hold it? Be fair? That's just what I'm saying. We're trying to put a guilty man into the chair where he belongsand all of a sudden we're paying attention to fairy tales.
 27 
-Page 28 Twelve Angry Men Act II
+[[page 28]]
 
 FIVE
 Now, just a minute--
@@ -1504,7 +1395,7 @@ NINE
 (to FOREMAN)
 Thank you. (Points at EIGHT.)
 This gentleman chose not to stand alone against us. That's his right. It takes a great deal of courage to stand alone even if you believe in something very strongly. He left the verdict 
-Act II Twelve Angry Men Page 29
+[[page 29]]
 up to us. He gambled for support and I gave it to him. I
 want to hear more. The vote is ten to two.
 (JURORS TWO
@@ -1561,7 +1452,7 @@ Two men think so. I wonder why. I really wonder why.
 
 TWO
 You do hear stories about innocent men who have gone to jail-or death, sometimes-then years later things turn up.
-Page 30 Twelve Angry Men Act II
+[[page 30]]
 
 FOUR
 And then on the other hand some killers get turned loose and they go and do it again. They squeeze out on some technicality and kill again.
@@ -1615,7 +1506,8 @@ Where's the reasonable doubt in that?
 
 TWELVE
 That's right. And let's not forget the woman across the street. She looked into the open window and saw the boy stab his father. She saw it! 
-Act II Twelve Angry Men
+
+# Act II
 
 THREE
 Now, if that's not enough for you--
@@ -1626,7 +1518,7 @@ It's not enough for me.
 
 FOUR
 What is enough for you? I'd like to know.
-Page 31
+[[page 31]]
 
 SEVEN
 How do you like him? It's like talking into a dead 'phone.
@@ -1693,7 +1585,7 @@ So?
 
 EIGHT
 All right. How long does it take an elevated train going at top speed to pass a given point? 
-Page 32 Twelve Angry Men
+[[page 32]]
 
 FOUR
 What has that got to do with anything?
@@ -1775,7 +1667,7 @@ Right.
 
 EIGHT
 The woman across the street looked through the window of a moving elevated train, going at top speed, and she saw the killing through the last two cars. She remembers the most insignificant details. She looked through the windows of the last two cars of the el and saw the body fall. Right?
-Act II Twelve Angry Men Page 33
+[[page 33]]
 
 FOUR
 Right.
@@ -1849,7 +1741,8 @@ NINE
 It's just that I looked at him for a very long time. The seam of his jacket was split under his arm. Did you notice that? He was a very old man with a torn jacket, and he carried two canes.
 (Gets liP, moves R and leans against wall.)
 I think I know him better than anyone here. This is a quiet, frightened, insignificant man who has been nothing all his life-who has never had recognition-his name in the newspapers. Nobody knows him after seventy-five years. This is a very sad thing. A man like this needs to be recognized-to be questioned, and listened to, and quoted just once. This is very important. ...
-Page 34 Twelve Angry M~n Act II
+
+[[page 34]]
 
 TWELVE
 And you're trying to tell us he lied about a thing like this just so he could be important?
@@ -1914,7 +1807,7 @@ Please-he was explaining the circumstances so that we could understand why the o
 
 THREE
 A liar is a liar, that's all there is to it. 
-Act II Twelve Angry Men Paae 3S
+[[page 35]]
 
 EIGHT
 Please--have some compassion.
@@ -1989,7 +1882,7 @@ And how they mean it!
 
 EIGHT
 Well, let me ask you this. Do you really think the boy would shout out a thing like that so the whole neighborhood would hear it? I don't think so. He's much too bright for that. 
-Page 36 Twelve Angry Men Act II
+[[page 36]]
 
 TEN
 (exploding)
@@ -2067,7 +1960,7 @@ SEVEN
 Oh, brother!
 (To EIGHT.)
 You sit in here and pull stories out of thin air. Now we're supposed to believe that the old man didn't get out of bed, run to the door and see the kid beat it downstairs fifteen seconds after the killing. 
-Act II Twelve Angry Men Page 37
+[[page 37]]
 
 FOUR
 That's the testimony, I believe.
@@ -2139,7 +2032,7 @@ All right. What's this one for? How come you're the only one in the room who wan
 FIVE
 I want to see this one, too.
 
-Page 38 Twelve Angry Men Act n
+[[page 38]]
 
 NINE
 So do I.
@@ -2195,7 +2088,7 @@ You want this?
 EIGHT
 Yes, please.
 (FOREMAN nods. EIGHT takes diagram and &roues U Il. He takes chair from U Il corner and brings it 
-Act II Twelve Angry Men Page 39
+[[page 39]]
 R c, haif facing table. He sets diagram up on chair so thlll
 ail can see it. EIGHT looks it over. Several JURORS get up to
 see it better. FOREMAN comes over to look. THREE, TEN and
@@ -2253,7 +2146,7 @@ I don't see why not.
 THREE
 He would have been 10 a hurty. He did hear the
 scream. 
-Page 40 Twelve Angry Men Act II
+[[page 40]]
 
 ELEVEN
 He can only walk very slowly. They had to help him into the witness chair.
@@ -2322,7 +2215,7 @@ EIGHT
 Do you mind if I try it? According to you, it'll only take fifteen seconds. We can spare that.
 (Walks over to two ,hairs and lies down on them.)
 Who's got a watch with a second band? 
-Act II Twelve Angry Men Page 41
+[[page 41]]
 
 TWO
 I have.
@@ -2398,7 +2291,7 @@ That can't be!
 
 ELEVEN
 Thirty-nine seconds! 
-Page 42 Twelve Angry Men
+[[page 42]]
 
 FOUR
 Now, that's inter.esting.
@@ -2469,7 +2362,7 @@ For this kid? You bet I'd like to pull the switch!
 EIGHT
 (shaking his head sadly)
 I'm sorry for you. 
-Act II Twelve Angry Men Page 43
+[[page 43]]
 
 THREE
 (shouting)
@@ -2506,15 +2399,11 @@ You don't really mean you'll kill me, do you?
 
 THREE stops struggling now and stares at EIGHT, and all the JURORS watch in silence, as: CURTAIN 
 
+[[page 44]]
 # ACT THREE
-AT -RISE OF CURTAIN: We see the same scene as at the
-end of Act Two. There has been no time lapse. THREE glares
-angrily at EIGHT. He is still held by two JURORS. After a
-long pause THREE shakes himself loose and turns away. He
-walks to the window. The other JURORS move away and
-stand around the room now; they are shocked by this display
-of anger. There is silence. Then the door L opens and the
-GUARD enters. He looks around the room.
+AT -RISE OF CURTAIN: We see the same scene as at the end of Act Two. There has been no time lapse. THREE glares
+angrily at EIGHT. He is still held by two JURORS. After a long pause THREE shakes himself loose and turns away. He walks to the window. The other JURORS move away and stand around the room now; they are shocked by this display of anger. There is silence. Then the door L opens and the GUARD enters. He looks around the room.
+
 GUARD
 Is there anything wrong, gentlemen? I heard some noise.
 
@@ -2535,7 +2424,7 @@ I don't see why we have to behave like children here.
 ELEVEN
 Nor do I. We have a responsibility. This is a remarkable thing about democracy. That we are-what is the word? . . . ah, notified! That we are notified by mail to come down to this place-and decide on the guilt or innocence of a man; of a man we have not known before. We have nothing to gain or lose by our verdict. This is one of 
 44 
-Act III Twelve Angry Men Page 45
+[[page 45]]
 the reasons why we are strong. We should not make it a personal thing. • . .
 
 NINE
@@ -2627,7 +2516,7 @@ Seven?
 
 SEVEN
 Guilty. 
-Page 46 Twelve Angry Men
+[[page 46]]
 
 FOREMAN
 Eight?
@@ -2700,7 +2589,7 @@ It's got to be unanimous-
 
 EIGHT
 At first I was alone. Now five others agree; there is a doubt. 
-Act III Twelve Angry Men Page 47
+[[page 47]]
 
 THREE
 You can't ever convince me that there's a doubt, because I know there isn't no doubt.
@@ -2786,7 +2675,7 @@ Three?
 
 THREE
 Yes. 
-Page 48 Twelve Angry Men
+[[page 48]]
 
 FOREMAN
 Four?
@@ -2875,7 +2764,7 @@ He-
 
 FOUR
 Does the anger and the insult change the guilt of the 
-Act III Twelve Angry Men Page 49
+[[page 49]]
 hoy? He did do it. Are you going to turn a murderer loose
 because one of the jurors gets angry when he thinks a murderer is being turned loose?
 
@@ -2926,7 +2815,7 @@ We reconstructed the old man getting out of bed and going to the door, and we ti
 
 NINE
 As well as we can reconstruct it.
-Page ~O Twelve Angry Men Act III
+[[page 50]]
 
 SEVEN
 I think a murderer could use up thirty or forty seconds pretty easily at that point.
@@ -2980,7 +2869,7 @@ That also seems possible.
 
 FOUR
 Also, there's another point we might bring out. Anyone who is clear enough mentally to wipe the fingerprints away after murdering someone, well, that person is also clear enough mentally to look around the apartment, or the room in this case, to see if there are any other clues. It would just be for a second or two, I should think, but still he would loox around.
-Ad III Twelve Angry Men Page 51
+[[page 51]]
 
 THllEE
 This gets better and better.
@@ -3024,7 +2913,7 @@ FOUR
 (moving to behind FOREMAN'S chair at left end of table)
 And whoever did murder the old man, and I think it was the kid, he still had to run down the hall and down the stairs-at least one flight of stairs.
 
-Page 52 Twelve Angry Men Act III
+[[page 52]]
 
 THREE
 You see! You see!
@@ -3085,7 +2974,7 @@ I say guilty. I was right the first time.
 
 THREE
 Now we're beginning to make sense in here.
-Act III Twelve Angry Men Page 53
+[[page 53]]
 
 FOREMAN
 It seems to be about nine guilty to three not guilty.
@@ -3146,7 +3035,7 @@ No one here is asking where anyone came from.
 
 SEVEN
 I was born right here. 
-Page 54 Twelve Angry Men Act III
+[[page 54]]
 
 FOUR
 Or where your father came from.
@@ -3198,16 +3087,18 @@ That's more than six inches.
 THREE
 Okay, let it be more.
 (Reaches into his pocket and takes out knife. He flicks it open, changes its position in his hand and holds knife aloft, ready to stab. He and EIGHT look steadily into each other's eyes. Then he stabs downward, hard.
-Act III T weI v e A n g r y Men Page 55
+[[page 55]]
 
 TWO
 (shouting)
 Look out!
-(Reaches short just as blade reaches EIGHT'S chest. THREE laughs.
+
+Reaches short just as blade reaches EIGHT'S chest. THREE laughs.
 
 SIX
 That's not funny.
-(CroJses back to table and sits.
+
+Crosses back to table and sits.
 
 FIVE
 What's the matter with you?
@@ -3218,7 +3109,8 @@ Now just calm dowll. Nobody's hurt, are they?
 EIGHT
 (low)
 No. Nobody'; hurt.
-(Turns, crosses back to his place but does not sit.
+
+Turns, crosses back to his place but does not sit.
 
 THREE
 All right. There's your angle. Take a look -at it.
@@ -3226,11 +3118,13 @@ All right. There's your angle. Take a look -at it.
 Down and in. That's how I'd stab a taller man in the chest, and that's how it was done.
 (Crosses back to his place at table.)
 Take a look at it, and tell me I'm wrong.
-(TWO doesn't answer. THREE looks at him for a moment, then jams knife into table and sits down. ALL look at knife.
+
+TWO doesn't answer. THREE looks at him for a moment, then jams knife into table and sits down. ALL look at knife.
 
 SIX
 Down and in. I guess there's no argument.
-(EIGHT picks knife out of table and closes it. He flicks it open and, changing its position in his hand, stabs downward with it.
+
+EIGHT picks knife out of table and closes it. He flicks it open and, changing its position in his hand, stabs downward with it.
 
 EIGHT
 (to SIX)
@@ -3281,7 +3175,7 @@ Doesn't it seem like an awkward way to handle a knife?
 THREE
 What are you asking me for?
 (EIGHT closes blade and flicks it open, holding knife ready to slash underhanded.)
-Page 56 Twelve Angry Men Act III
+[[page 56]]
 
 FIVE
 Wait a minute! What's the matter with me? Give me that knife. (Reaches out for kn;fe.)
@@ -3355,7 +3249,7 @@ I want you all to look at this logically and consistently.
 
 THREE
 We have. Guilty. 
-Act III Twelve Angry Men Page 57
+[[page 57]]
 
 EIGHT
 I want to know- is the kid smart or is the kid dumb?
@@ -3400,7 +3294,7 @@ It would take an awfully dumb man to take that chance, doing the murder as the t
 
 EIGHT
 Exactly. A dumb man, a very stupid man, a man swept by emotion. Probably he heard nothing; he probably didn't 
-Page 58 Twelve Angry Men Act III
+[[page 58]]
 even hear the train coming. And whoever did murder the
 father did it as well as he could.
 
@@ -3456,7 +3350,7 @@ All those voting guilty.
 Three.
 (They lower their hands.)
 The vote is nine to three in favor of acquittal.
-Act III Twelve Angry Men Page 59
+[[page 59]]
 
 TEN
 i don't understand you people. How can you believe this kid is innocent? Look, you know how those people lie. I don't have to tell you. They don't know what the truth is. And let me tell you, they-
@@ -3471,7 +3365,7 @@ I'm speaking my piece, and you-listen to me! They're no good. There's not a one 
 (THREE sits at table laying with knife as FOUR gets up and starts toward TEN. All the other JURORS have their backs turned on TEN.)
 Well, don't you know about them? Listen to me! What are you doing? I'm trying to tell you something .. . .
 (FOUR stands over him as he trails off. There is a dead silmct/. Then FOUR speaks softly.)
-Page 60 Twelve Angry Men Ad III
+[[page 60]]
 
 FOUR
 I've had enough. If you open your mouth again I'm going to split your skull.
@@ -3510,7 +3404,7 @@ What do you think about it?
 
 TWELVE
 Well- maybe. _ .. There's so much evidence to sift. .•.
-Act III Twelve Angry Men Page 61
+[[page 61]]
 
 THREE
 What do you mean, maybe? He's absolutely right. You can throw out all the other evidence.
@@ -3582,7 +3476,7 @@ EIGHT
 I think it's logical to say that she was not wearing her glasses in bed, and I don't think she'd put them on to glance casually out the window .. . . She testified that the murder took place the instant she looked out, and that the lights went out a split second later. She couldn't have had time to put on her glasses then. Now perhaps this woman honestly thought she saw the boy kill his father.
 (Rises.)
 I say that she only saw a blur.
-Page 62 Twelve Angry Men Act III
+[[page 62]]
 
 THREE
 How do you know what she saw? Maybe she's farsighted ....
@@ -3657,7 +3551,7 @@ You're not going to intimidate me!
 (They are ALL staring at THREE.)
 I'm entitled to my opinion!
 (No
-Act III Twelve Angry Men Page 63
+[[page 63]]
 one answers him.)
 It's gonna be a hung jury!
 (Turns
@@ -3706,4 +3600,5 @@ Not guilty!
 
 THREE walks Ollt of room. EIGHT glances around qllickly, sighs, then turns and moves out through door. GUARD goes out, closing door.
 
-CURTAIN
+Curtain
+
