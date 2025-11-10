@@ -1,0 +1,18 @@
+[project]
+name = "12angrymen"
+version = "0.0.1"
+description = 'Production files for "12 Angry Men"'
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["qlab"]
+
+[tool.uv.sources]
+qlab = { path = "../QLab-python", editable = true }
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "rich>=14.2.0",
+    "uploadserver>=6.0.0",
+]
