@@ -42,9 +42,9 @@
   "Templates": "LiTextSelect",
   "Templates/Checklist template.md": "LiCheckSquare",
   "Templates/Daily template.md": "LiCalendar",
-  "Design/Sound/Audio.md": "LiPlay",
   "Design/Sound/Mics.md": "LiMic",
   "Shows": "🎭",
   "Meetings": "📎",
-  "Log.md": "LiLogs"
+  "Log.md": "LiLogs",
+  "Design/Sound/Sound Design.md": "LiPlay"
 }

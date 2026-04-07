@@ -1,0 +1,24 @@
+[showrunner]
+current-show = 1
+
+[database]
+# path = "show.db"
+# echo = false
+
+[server]
+# host = "0.0.0.0"
+# port = 8000
+# storage-secret = "showrunner"
+
+[logging]
+# level = "INFO"
+
+[paths]
+# scripts = "./scripts"
+# exports = "./exports"
+
+[plugins]
+# disabled = []
+
+[plugins.theatremix]
+database = "mix/12AM.tmix"

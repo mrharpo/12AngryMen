@@ -1,0 +1,4 @@
+#!/bin/bash
+sr create 12 Angry Men --venue "El Camino Theatre"
+sr scripts add "stage script" --format fountain --file ./scripts/12AngryMen.fountain
+sr start

@@ -1,0 +1,26 @@
+---
+date: 2026-03-19
+---
+### [[2026-03-19]] First Designer meeting
+- Initial Looks
+	- Open house: 20 min actors "becoming men"
+- Projection
+	- NY skyline
+- Sound
+	- Judges audio in beginning
+	- Guard Keys
+	- Deadbolt lock
+- Music
+	- 50s jazz
+- Lighting
+	- Window (doesn't open)
+	- blinds
+	- Rain: gets darker
+	- Keep it simple
+	- "natural" looks
+	- noir blinds through windows
+	- 
+- Set fully up by Wed?Thurs next week
+	- Next Fri is mi day, done at 1p
+	- rehearsal 1-5 stumblethrough?
+- Pit is open 🙁
