@@ -42,23 +42,30 @@
 ### [[2026-04-05]]
 - #LD Review initial lighting cues
 ### [[2026-04-06]]
-- [ ] Prep for #tech
+- [x] Prep for #tech
 	- [x] Purchase #TheatreMix #license
-	- [ ] Add media to QLab
 	- [x] Align sound cues with script
-	- [ ] 
-- [ ] #tech #rehearsal 
-	- [ ] #PD
-		- [ ] Setup window projection
-	- [ ] #SD
-		- [ ] Setup board with #TheatreMix #license
-		- [ ] Handoff cues to #SM
-	- [ ] #LD 
-		- [ ] Preview cues
+	- [x] #LD 
+		- [x] Preview cues
 ### [[2026-04-07]]
-- [ ] Prep for #tech 
-	- [ ] Bring #network router 
-	- [ ] #POE #camera
-- [ ] #tech
-	- [ ] Setup #network
-- [ ] 
+- [x] Prep for #tech 
+	- [x] Bring #network router 
+	- [x] #camera
+- [x] #tech #rehearsal 
+	- [x] Setup #network
+	- [x] #SD
+		- [x] Setup board with #TheatreMix #license
+- [x] #LD 
+	- [x] Working on lightning effects
+	- Block cues
+	- Fixing bad tracking across cues
+	- Creative decisions on specials
+	- [x] Patch specials in #Eos
+	- Programming scenic elements
+		- curtains
+		- actors
+	- Moving lights in #Augment3d
+## Todo
+- [ ] Handoff cues to #SM
+- [ ] Setup window projection screen
+- [ ] Add media to QLab

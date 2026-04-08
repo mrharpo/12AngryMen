@@ -2,5 +2,12 @@
 - [ ] [[Mics]]
 - [ ] Sounds
 	- [ ] Thunder
+		- [ ] rumble
+		- [ ] crack
 	- [ ] Rain
 	- [x] Judge
+	- [ ] City
+- [ ] Music
+	- [ ] End moment jazz
+	- [ ] Preshow?
+- [ ] 

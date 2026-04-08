@@ -6,4 +6,8 @@
 - [ ] Install DMX 4 channel box
 	- [ ] Fan
 	- [ ] Practicals
-- [ ] 
+- [ ] Install specials
+	- [ ] Window cyc
+	- [ ] Window in
+	- [ ] Door
+	- [ ] Bathroom

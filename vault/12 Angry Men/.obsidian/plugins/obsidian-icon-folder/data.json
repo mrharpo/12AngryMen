@@ -40,11 +40,11 @@
   "Design/Projection": "📽",
   "Design/Sound": "🔊",
   "Templates": "LiTextSelect",
-  "Templates/Checklist template.md": "LiCheckSquare",
   "Templates/Daily template.md": "LiCalendar",
   "Design/Sound/Mics.md": "LiMic",
   "Shows": "🎭",
   "Meetings": "📎",
   "Log.md": "LiLogs",
-  "Design/Sound/Sound Design.md": "LiPlay"
+  "Design/Sound/Sound Design.md": "LiPlay",
+  "Templates/Performance checklist template.md": "LiCheckSquare"
 }
