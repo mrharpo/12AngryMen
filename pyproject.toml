@@ -9,12 +9,19 @@ dependencies = [
     "showrunner",
     "sqladmin>=0.24.0",
     "theatremix",
+    "thecuelist",
 ]
 
 [tool.uv.sources]
 screenplay_tools = { path = "../screenplay-tools/python", editable = true }
 theatremix = { path = "../TheatreMix-python", editable = true }
 showrunner = { path = "../ShowRunner", editable = true }
+thecuelist = { workspace = true, editable = true }
+
+[tool.uv.workspace]
+members = [
+    "thecuelist",
+]
 
 [dependency-groups]
 dev = [

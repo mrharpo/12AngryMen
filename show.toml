@@ -11,14 +11,14 @@ path = "12AM.db"
 # storage-secret = "showrunner"
 
 [logging]
-# level = "INFO"
+level = "DEBUG"
 
 [paths]
 # scripts = "./scripts"
 # exports = "./exports"
 
 [plugins]
-# disabled = []
+# disabled = ["thecuelist"]
 
 [plugins.theatremix]
 database = "mix/12AM.tmix"

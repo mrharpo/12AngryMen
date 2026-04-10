@@ -65,7 +65,20 @@
 		- curtains
 		- actors
 	- Moving lights in #Augment3d
+### [[2026-04-08]]
+- #ShowRunner
+	- Added Undo function
+	- Pagination matches script pages
+### [[2026-04-09]]
+- #prep
+	- [x] Review sound cues
+	- [ ] Ingest lighting cues
+	- [x] Add media to QLab
+- #tech 
+	- [x] Lightning FX
+	- [x] Fluorescent flicker
+	- [x] Handoff cues to #SM
+- #ShowRunner 
+	- Added new plugin bootstrapper
 ## Todo
-- [ ] Handoff cues to #SM
 - [ ] Setup window projection screen
-- [ ] Add media to QLab

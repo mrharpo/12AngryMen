@@ -4,4 +4,5 @@
 	- [x] Migrate to inline page break notes
 - [x] Pick base showfile
 	- lookahead: 20
-- [ ] Review against script
+- [x] Review against script
+- [ ] Resync cue labels

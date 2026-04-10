@@ -7,6 +7,12 @@ resolution-markers = [
     "python_full_version < '3.11'",
 ]
 
+[manifest]
+members = [
+    "12angrymen",
+    "thecuelist",
+]
+
 [[package]]
 name = "12angrymen"
 version = "0.0.1"
@@ -16,6 +22,7 @@ dependencies = [
     { name = "showrunner" },
     { name = "sqladmin" },
     { name = "theatremix" },
+    { name = "thecuelist" },
 ]
 
 [package.dev-dependencies]
@@ -32,6 +39,7 @@ requires-dist = [
     { name = "showrunner", editable = "../ShowRunner" },
     { name = "sqladmin", specifier = ">=0.24.0" },
     { name = "theatremix", editable = "../TheatreMix-python" },
+    { name = "thecuelist", editable = "thecuelist" },
 ]
 
 [package.metadata.requires-dev]
@@ -2915,6 +2923,17 @@ dev = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "pytest", specifier = ">=9.0.2" },
 ]
+
+[[package]]
+name = "thecuelist"
+version = "0.1.0"
+source = { editable = "thecuelist" }
+dependencies = [
+    { name = "showrunner" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "showrunner", editable = "../ShowRunner" }]
 
 [[package]]
 name = "tornado"

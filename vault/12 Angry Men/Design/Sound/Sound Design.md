@@ -1,5 +1,5 @@
 ## Todo
-- [ ] [[Mics]]
+- [x] [[Mics]]
 - [ ] Sounds
 	- [ ] Thunder
 		- [ ] rumble
@@ -7,7 +7,14 @@
 	- [ ] Rain
 	- [x] Judge
 	- [ ] City
+	- [ ] Fluorescent 
 - [ ] Music
 	- [ ] End moment jazz
 	- [ ] Preshow?
-- [ ] 
+- [ ] Setup front fills
+- [ ] Setup reference mic
+- [ ] Dante
+	- [x] Check license
+	- [ ] Setup sound vlan
+	- [ ] QLab -> board
+	- [ ] board -> recorder

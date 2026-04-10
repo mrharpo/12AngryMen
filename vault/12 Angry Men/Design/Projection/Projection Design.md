@@ -11,7 +11,8 @@
 - Slow transitions
 
 ## Todo
-- [ ] NY skyline
-- [ ] Clouds
-- [ ] Rain
+- [x] NY skyline
+- [x] Clouds
+	- [x] FX compositing
+- [x] Rain
 - [ ] Lightning
