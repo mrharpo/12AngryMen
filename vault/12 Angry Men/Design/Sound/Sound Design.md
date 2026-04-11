@@ -1,13 +1,14 @@
 ## Todo
 - [x] [[Mics]]
 - [ ] Sounds
-	- [ ] Thunder
-		- [ ] rumble
-		- [ ] crack
-	- [ ] Rain
+	- [x] Thunder
+		- [x] rumble
+		- [x] crack
+	- [x] Rain
 	- [x] Judge
-	- [ ] City
-	- [ ] Fluorescent 
+	- [x] City
+	- [x] Fluorescent 
+	- [x] gavel
 - [ ] Music
 	- [ ] End moment jazz
 	- [ ] Preshow?

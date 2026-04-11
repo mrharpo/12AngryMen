@@ -7,22 +7,16 @@ resolution-markers = [
     "python_full_version < '3.11'",
 ]
 
-[manifest]
-members = [
-    "12angrymen",
-    "thecuelist",
-]
-
 [[package]]
 name = "12angrymen"
 version = "0.0.1"
 source = { virtual = "." }
 dependencies = [
+    { name = "cuelist" },
     { name = "screenplay-tools" },
     { name = "showrunner" },
     { name = "sqladmin" },
     { name = "theatremix" },
-    { name = "thecuelist" },
 ]
 
 [package.dev-dependencies]
@@ -35,11 +29,11 @@ dev = [
 
 [package.metadata]
 requires-dist = [
+    { name = "cuelist", directory = "../Cuelist-python" },
     { name = "screenplay-tools", editable = "../screenplay-tools/python" },
     { name = "showrunner", editable = "../ShowRunner" },
     { name = "sqladmin", specifier = ">=0.24.0" },
     { name = "theatremix", editable = "../TheatreMix-python" },
-    { name = "thecuelist", editable = "thecuelist" },
 ]
 
 [package.metadata.requires-dev]
@@ -553,6 +547,23 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/0a/59/ebfb8c677c75605cc27f7122c90313fd2f375ff3c8d19a1694bda74aaa63/contourpy-1.3.3-pp311-pypy311_pp73-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:70f9aad7de812d6541d29d2bbf8feb22ff7e1c299523db288004e3157ff4674e", size = 302202, upload-time = "2025-07-26T12:02:55.947Z" },
     { url = "https://files.pythonhosted.org/packages/3c/37/21972a15834d90bfbfb009b9d004779bd5a07a0ec0234e5ba8f64d5736f4/contourpy-1.3.3-pp311-pypy311_pp73-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:5ed3657edf08512fc3fe81b510e35c2012fbd3081d2e26160f27ca28affec989", size = 329207, upload-time = "2025-07-26T12:02:57.468Z" },
     { url = "https://files.pythonhosted.org/packages/0c/58/bd257695f39d05594ca4ad60df5bcb7e32247f9951fd09a9b8edb82d1daa/contourpy-1.3.3-pp311-pypy311_pp73-win_amd64.whl", hash = "sha256:3d1a3799d62d45c18bafd41c5fa05120b96a28079f2393af559b843d1a966a77", size = 225315, upload-time = "2025-07-26T12:02:58.801Z" },
+]
+
+[[package]]
+name = "cuelist"
+version = "0.1.0"
+source = { directory = "../Cuelist-python" }
+dependencies = [
+    { name = "pydantic" },
+    { name = "python-multipart" },
+    { name = "showrunner" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "pydantic", specifier = ">=2.0" },
+    { name = "python-multipart" },
+    { name = "showrunner", editable = "../ShowRunner" },
 ]
 
 [[package]]
@@ -2923,17 +2934,6 @@ dev = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "pytest", specifier = ">=9.0.2" },
 ]
-
-[[package]]
-name = "thecuelist"
-version = "0.1.0"
-source = { editable = "thecuelist" }
-dependencies = [
-    { name = "showrunner" },
-]
-
-[package.metadata]
-requires-dist = [{ name = "showrunner", editable = "../ShowRunner" }]
 
 [[package]]
 name = "tornado"

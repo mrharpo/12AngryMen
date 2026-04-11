@@ -11,10 +11,14 @@
             "id": "0eb6d9c2846e08df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-04-10.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-10"
             }
           }
         ]
@@ -183,18 +187,19 @@
   },
   "active": "0eb6d9c2846e08df",
   "lastOpenFiles": [
-    "Daily/2026-04-09.md",
-    "Templates/Performance checklist template.md",
-    "Templates/Checklist template.md",
-    "Design/Lights/Lighting Design.md",
-    "Shows/Performance 1.md",
-    "Shows/Checklist.md",
-    "Design/Projection/Projection Design.md",
-    "Design/Sound/Mics.md",
     "Design/Sound/Sound Design.md",
+    "Templates/Checklist template.md",
+    "Shows/Checklist.md",
+    "Daily/2026-04-10.md",
+    "Design/Sound/Mics.md",
+    "Design/Projection/Projection Design.md",
+    "Design/Lights/Lighting Design.md",
+    "Daily/2026-04-09.md",
+    "Design/ShowRunner.md",
+    "Templates/Performance checklist template.md",
+    "Shows/Performance 1.md",
     "Log.md",
     "Daily/2026-04-08.md",
-    "Design/ShowRunner.md",
     "Daily/2026-04-05.md",
     "Daily/2026-03-27.md",
     "Daily/2026-04-07.md",

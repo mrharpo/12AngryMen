@@ -5,23 +5,19 @@ description = 'Production files for "12 Angry Men"'
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "cuelist",
     "screenplay-tools>=0.0.10",
     "showrunner",
     "sqladmin>=0.24.0",
     "theatremix",
-    "thecuelist",
 ]
 
 [tool.uv.sources]
 screenplay_tools = { path = "../screenplay-tools/python", editable = true }
 theatremix = { path = "../TheatreMix-python", editable = true }
 showrunner = { path = "../ShowRunner", editable = true }
-thecuelist = { workspace = true, editable = true }
+cuelist = { path = "../Cuelist-python" }
 
-[tool.uv.workspace]
-members = [
-    "thecuelist",
-]
 
 [dependency-groups]
 dev = [

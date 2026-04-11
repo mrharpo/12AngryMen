@@ -11,7 +11,7 @@ path = "12AM.db"
 # storage-secret = "showrunner"
 
 [logging]
-level = "DEBUG"
+# level = "DEBUG"
 
 [paths]
 # scripts = "./scripts"
