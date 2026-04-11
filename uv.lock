@@ -13,6 +13,7 @@ version = "0.0.1"
 source = { virtual = "." }
 dependencies = [
     { name = "cuelist" },
+    { name = "qlab" },
     { name = "screenplay-tools" },
     { name = "showrunner" },
     { name = "sqladmin" },
@@ -29,7 +30,8 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "cuelist", directory = "../Cuelist-python" },
+    { name = "cuelist", editable = "../Cuelist-python" },
+    { name = "qlab", editable = "../QLab-python" },
     { name = "screenplay-tools", editable = "../screenplay-tools/python" },
     { name = "showrunner", editable = "../ShowRunner" },
     { name = "sqladmin", specifier = ">=0.24.0" },
@@ -552,7 +554,7 @@ wheels = [
 [[package]]
 name = "cuelist"
 version = "0.1.0"
-source = { directory = "../Cuelist-python" }
+source = { editable = "../Cuelist-python" }
 dependencies = [
     { name = "pydantic" },
     { name = "python-multipart" },
@@ -715,6 +717,11 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/13/6f/ae9c4e4dd417948407b680855c2c7790efb52add6009aaecff1e3bc50e8e/fonttools-4.62.1-cp314-cp314t-win_amd64.whl", hash = "sha256:59b372b4f0e113d3746b88985f1c796e7bf830dd54b28374cd85c2b8acd7583e", size = 2414147, upload-time = "2026-03-13T13:54:19.416Z" },
     { url = "https://files.pythonhosted.org/packages/fd/ba/56147c165442cc5ba7e82ecf301c9a68353cede498185869e6e02b4c264f/fonttools-4.62.1-py3-none-any.whl", hash = "sha256:7487782e2113861f4ddcc07c3436450659e3caa5e470b27dc2177cade2d8e7fd", size = 1152647, upload-time = "2026-03-13T13:54:22.735Z" },
 ]
+
+[[package]]
+name = "fountain"
+version = "0.1.0"
+source = { git = "https://github.com/quaternionmedia/fountain?branch=deduplicate#9f059d0ca202d1737cdf9ba03ab952ee2a9f9b3e" }
 
 [[package]]
 name = "frozenlist"
@@ -2561,6 +2568,15 @@ wheels = [
 ]
 
 [[package]]
+name = "python-osc"
+version = "1.10.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a1/79/094503dc039c8ba9cead01f4b5e163d795a6a502563d3a31f35d20a1ecf8/python_osc-1.10.2.tar.gz", hash = "sha256:732548f4f467dda9f890a6b0b3bfb085ab117f4bd38a45a58d2ca0f3bd6a546d", size = 33716, upload-time = "2026-04-02T20:46:04.692Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1f/a2/ce26e437e36707f0da839dd88b072413825ea8986b73ce7b5c4f3cd1b7f4/python_osc-1.10.2-py3-none-any.whl", hash = "sha256:018b28e1cc06427c2c3d695f4e8d87d0caecfe604ff889acc45235cfd94183a2", size = 45467, upload-time = "2026-04-02T20:46:03.718Z" },
+]
+
+[[package]]
 name = "python-socketio"
 version = "5.16.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2714,6 +2730,30 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/a1/cf/f2b3784d536250ffd4be70e049f3b60981235d70c6e8ce7e3ef21e1adb25/pyzmq-27.1.0-pp311-pypy311_pp73-manylinux_2_26_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:f605d884e7c8be8fe1aa94e0a783bf3f591b84c24e4bc4f3e7564c82ac25e271", size = 747371, upload-time = "2025-09-08T23:09:54.563Z" },
     { url = "https://files.pythonhosted.org/packages/01/1b/5dbe84eefc86f48473947e2f41711aded97eecef1231f4558f1f02713c12/pyzmq-27.1.0-pp311-pypy311_pp73-win_amd64.whl", hash = "sha256:c9f7f6e13dff2e44a6afeaf2cf54cee5929ad64afaf4d40b50f93c58fc687355", size = 544862, upload-time = "2025-09-08T23:09:56.509Z" },
 ]
+
+[[package]]
+name = "qlab"
+version = "0.1.0"
+source = { editable = "../QLab-python" }
+dependencies = [
+    { name = "fountain" },
+    { name = "pydantic" },
+    { name = "python-osc" },
+    { name = "showrunner" },
+    { name = "sqlmodel" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "fountain", git = "https://github.com/quaternionmedia/fountain?branch=deduplicate" },
+    { name = "pydantic", specifier = ">=2.8.2" },
+    { name = "python-osc", specifier = ">=1.8.3" },
+    { name = "showrunner", editable = "../ShowRunner" },
+    { name = "sqlmodel", specifier = ">=0.0.27" },
+]
+
+[package.metadata.requires-dev]
+dev = [{ name = "rich", specifier = ">=14.2.0" }]
 
 [[package]]
 name = "rich"

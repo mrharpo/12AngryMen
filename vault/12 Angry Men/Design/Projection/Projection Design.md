@@ -16,3 +16,5 @@
 	- [x] FX compositing
 - [x] Rain
 - [ ] Lightning
+- [ ] NY timelapse smoother
+- [ ] 

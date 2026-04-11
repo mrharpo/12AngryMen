@@ -1,13 +1,16 @@
 ## Todo
-- [ ] Window cyc
-	- [ ] Install screen
-	- [ ] Install lights
-	- [ ] Patch in Eos
-- [ ] Install DMX 4 channel box
-	- [ ] Fan
-	- [ ] Practicals
-- [ ] Install specials
-	- [ ] Window cyc
-	- [ ] Window in
-	- [ ] Door
-	- [ ] Bathroom
+- [x] Window cyc
+	- [x] Install screen
+	- [x] Install lights
+	- [x] Patch in Eos
+- [x] Install DMX 4 channel box
+	- [x] Fan
+	- [x] Practicals
+- [x] Install specials
+	- [x] Window cyc x2
+		- [ ] x4
+	- [x] Window in
+	- [x] Door
+	- [x] Bathroom
+- [ ] Check fluorescents cue in front: too yellow
+- [ ] Check lightning

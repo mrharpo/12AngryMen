@@ -12,7 +12,8 @@
 - [ ] Music
 	- [ ] End moment jazz
 	- [ ] Preshow?
-- [ ] Setup front fills
+- [x] Setup front fills
+- [x] Setup rear fills
 - [ ] Setup reference mic
 - [ ] Dante
 	- [x] Check license

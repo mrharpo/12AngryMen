@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-10.md",
+                "file": "Design/Sound/Mics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-10"
+              "title": "Mics"
             }
           }
         ]
@@ -188,14 +188,15 @@
   "active": "0eb6d9c2846e08df",
   "lastOpenFiles": [
     "Design/Sound/Sound Design.md",
+    "Design/Lights/Lighting Design.md",
+    "Design/Projection/Projection Design.md",
+    "Design/Sound/Mics.md",
+    "Design/ShowRunner.md",
+    "Daily/2026-04-11.md",
+    "Daily/2026-04-10.md",
     "Templates/Checklist template.md",
     "Shows/Checklist.md",
-    "Daily/2026-04-10.md",
-    "Design/Sound/Mics.md",
-    "Design/Projection/Projection Design.md",
-    "Design/Lights/Lighting Design.md",
     "Daily/2026-04-09.md",
-    "Design/ShowRunner.md",
     "Templates/Performance checklist template.md",
     "Shows/Performance 1.md",
     "Log.md",
@@ -213,7 +214,6 @@
     "Daily/2026-04-03.md",
     "Daily/2026-04.md",
     "2026-04.md",
-    "Meetings/LD - virtual meeting 2.md",
     "Design/Lights",
     "Design/Projection",
     "Templates",
