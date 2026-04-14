@@ -9,9 +9,9 @@
 	- [x] City
 	- [x] Fluorescent 
 	- [x] gavel
-- [ ] Music
-	- [ ] End moment jazz
-	- [ ] Preshow?
+- [x] Music
+	- [x] End moment jazz
+	- [x] Preshow?
 - [x] Setup front fills
 - [x] Setup rear fills
 - [ ] Setup reference mic
@@ -20,3 +20,6 @@
 	- [ ] Setup sound vlan
 	- [ ] QLab -> board
 	- [ ] board -> recorder
+- [ ] QLab
+	- [ ] License
+	- [ ] Reference mics

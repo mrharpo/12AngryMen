@@ -4,7 +4,7 @@
 - [ ] Add cue points to tag
 	- [ ] Migrate to `number: str` ?
 ### #Cuelist plugin
-- [ ] Import from csv
+- [x] Import from csv
 ### #TheatreMix plugin
 - [ ] DCA view
 
