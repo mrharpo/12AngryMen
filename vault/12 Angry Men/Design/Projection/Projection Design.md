@@ -17,4 +17,4 @@
 - [x] Rain
 - [ ] Lightning
 - [ ] NY timelapse smoother
-- [ ] 
+- [ ] Better clouds

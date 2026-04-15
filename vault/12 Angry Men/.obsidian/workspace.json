@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Projection/Projection Design.md",
+                "file": "Design/ShowRunner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projection Design"
+              "title": "ShowRunner"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "0eb6d9c2846e08df",
   "lastOpenFiles": [
-    "Daily/2026-04-13.md",
     "Design/Sound/Sound Design.md",
     "Design/Sound/Mics.md",
+    "Design/Projection/Projection Design.md",
+    "Design/Lights/Lighting Design.md",
+    "Daily/2026-04-14.md",
+    "Daily/2026-04-13.md",
     "Design/ShowRunner.md",
     "Daily/2026-04-11.md",
-    "Design/Lights/Lighting Design.md",
-    "Design/Projection/Projection Design.md",
     "Daily/2026-04-10.md",
     "Templates/Checklist template.md",
     "Shows/Checklist.md",
@@ -213,7 +214,6 @@
     "Meetings/Initial Designer's Meeting.md",
     "Daily/2026-04-06.md",
     "Daily/2026-04-03.md",
-    "Daily/2026-04.md",
     "Design/Lights",
     "Design/Projection",
     "Templates",

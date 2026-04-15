@@ -15,3 +15,5 @@
 - [ ] Check fluorescents cue in front: too yellow
 - [x] Check ch17 focus
 - [ ] Check lightning
+- [x] Reduce final flicker
+- [x] L12.3 placement in script

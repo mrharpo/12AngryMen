@@ -12,14 +12,21 @@
 - [x] Music
 	- [x] End moment jazz
 	- [x] Preshow?
-- [x] Setup front fills
-- [x] Setup rear fills
+
 - [ ] Setup reference mic
-- [ ] Dante
+- [x] #Dante
 	- [x] Check license
-	- [ ] Setup sound vlan
-	- [ ] QLab -> board
-	- [ ] board -> recorder
-- [ ] QLab
-	- [ ] License
-	- [ ] Reference mics
+	- [x] Setup sound vlan
+	- [x] QLab -> board
+	- [x] board -> recorder
+- [x] QLab
+	- [x] License
+- [x] Surround sound
+	- [x] Setup front fills
+	- [x] Setup rear fills
+	- [x] Patch in sound board
+	- [x] Patch in #Dante
+	- [x] Create #QLab audio map
+	- [x] Test in theatre
+- [ ] Ardour
+	- [ ] Setup template
