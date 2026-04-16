@@ -5,7 +5,7 @@ tags:
 - performance
 start:
 ---
-<%* const folder = app.vault.getAbstractFileByPath("Shows"); const n = folder ? folder.children.length : 1; await tp.file.rename("Performance " + n); -%>
+<%* const folder = app.vault.getAbstractFileByPath("Shows"); const n = folder ? folder.children.length : 1; await tp.file.rename("Performance " + n + " - " + moment().format("dddd")); -%>
 # Performance <% n %>
 ## <% moment().format("dddd, MMMM D, YYYY") %>
 
@@ -22,10 +22,10 @@ start:
     - [ ] Camera -> BOH 1
     - [ ] Camera -> BOH 2
     - [ ] Camera -> Lobby
-  - [ ] Volume
-    - [ ] Mute lobby
   - [ ] Settings
-    - [ ] Screen up
+    - [ ] Projector screen up
+- [ ] Volume
+    - [ ] Mute lobby
 - [ ] 2nd Crestron
   - [ ] House out
   - [ ] Fixture power: on
@@ -39,13 +39,7 @@ start:
   - [ ] Start light board
   - [ ] Load showfile
   - [ ] goto cue `0.1`
-  - [ ] Verify lights onstage respond
-- [ ] VFX
-  - [ ] Start VFX projector
-  - [ ] Connect HDMI
-  - [ ] Load VFX QLab
-  - [ ] Verify projection on stage
-  - [ ] Start caffiene app
+  - [ ] Verify lights onstage
 - [ ] Primary computer
   - [ ] Start computer
   - [ ] TheatreMix
@@ -57,7 +51,7 @@ start:
     - [ ] Verify Main channel strip reads `0.1`
   - [ ] Ardour
     - [ ] Start Ardour
-    - [ ] Create new from `Seussical` template
+    - [ ] Create new from show template
   - [ ] QLab
     - [ ] Load QLab showfile
     - [ ] Preflight cue list

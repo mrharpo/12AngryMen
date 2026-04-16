@@ -5,4 +5,5 @@
 - [x] Pick base showfile
 	- lookahead: 20
 - [x] Review against script
+- [x] Remove extra #TheatreMix cues
 - [ ] Resync cue labels

@@ -1,0 +1,6 @@
+- [ ] VFX
+  - [ ] Start VFX projector
+  - [ ] Connect HDMI
+  - [ ] Load VFX QLab
+  - [ ] Verify projection on stage
+  - [ ] Start caffiene appx

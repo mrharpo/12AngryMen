@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTheater",
       "LiLogs",
       "📎",
       "🎭",
-      "LiMic",
-      "LiPlay"
+      "LiMic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Meetings": "📎",
   "Log.md": "LiLogs",
   "Design/Sound/Sound Design.md": "LiPlay",
-  "Templates/Performance checklist template.md": "LiCheckSquare"
+  "Templates/Performance checklist template.md": "LiCheckSquare",
+  "Rehearsals": "LiTheater"
 }

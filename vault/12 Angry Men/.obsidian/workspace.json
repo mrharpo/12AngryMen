@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/ShowRunner.md",
+                "file": "Daily/2026-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShowRunner"
+              "title": "2026-04-15"
             }
           }
         ]
@@ -187,40 +187,41 @@
   },
   "active": "0eb6d9c2846e08df",
   "lastOpenFiles": [
-    "Design/Sound/Sound Design.md",
-    "Design/Sound/Mics.md",
-    "Design/Projection/Projection Design.md",
-    "Design/Lights/Lighting Design.md",
+    "Templates/Other Checklists.md",
+    "Rehearsals/Dress Rehearsal 3.md",
+    "Meetings/2026-03-19.md",
+    "Excalidraw/Drawing 2026-04-16 00.16.45.excalidraw.md",
+    "Design/Cast.md",
+    "Daily/2026-04-16.md",
+    "Rehearsals",
+    "Excalidraw",
     "Daily/2026-04-14.md",
+    "Daily/2026-04-15.md",
     "Daily/2026-04-13.md",
-    "Design/ShowRunner.md",
     "Daily/2026-04-11.md",
     "Daily/2026-04-10.md",
-    "Templates/Checklist template.md",
-    "Shows/Checklist.md",
-    "Daily/2026-04-09.md",
-    "Templates/Performance checklist template.md",
     "Shows/Performance 1.md",
-    "Log.md",
-    "Daily/2026-04-08.md",
-    "Daily/2026-04-05.md",
-    "Daily/2026-03-27.md",
-    "Daily/2026-04-07.md",
-    "Shows",
-    "Shows/Performance 3.md",
-    "Shows/Performance 2.md",
+    "Shows/Performance 3 - Wednesday.md",
+    "Templates/Performance checklist template.md",
     "Templates/Daily template.md",
-    "Shows/Untitled 1.md",
+    "Shows/Performance 2 - 15.md",
+    "Shows/Checklist.md",
+    "Templates/Checklist template.md",
+    "Design/Sound/Sound Design.md",
+    "Design/ShowRunner.md",
     "Meetings/Initial Designer's Meeting.md",
-    "Daily/2026-04-06.md",
-    "Daily/2026-04-03.md",
+    "Design/Sound/Mics.md",
+    "Design/Lights/Lighting Design.md",
+    "Design/Projection/Projection Design.md",
+    "Daily/2026-04-09.md",
+    "Log.md",
+    "Shows",
     "Design/Lights",
     "Design/Projection",
     "Templates",
     "Daily",
     "Design/Sound",
     "Meetings",
-    "Design",
-    "Shows"
+    "Design"
   ]
 }

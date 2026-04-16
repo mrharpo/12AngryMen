@@ -12,7 +12,7 @@
 	- [x] Window in
 	- [x] Door
 	- [x] Bathroom
-- [ ] Check fluorescents cue in front: too yellow
+- [x] Check fluorescents cue in front: too yellow
 - [x] Check ch17 focus
 - [ ] Check lightning
 - [x] Reduce final flicker
