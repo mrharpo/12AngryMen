@@ -20,7 +20,7 @@ date: 2026-03-19
 	- "natural" looks
 	- noir blinds through windows
 	- 
-- Set fully up by Wed?Thurs next week
+- Set fully up by Wed? Thurs next week
 	- Next Fri is mi day, done at 1p
 	- rehearsal 1-5 stumblethrough?
 - Pit is open 🙁
