@@ -9,14 +9,13 @@ resolution-markers = [
 
 [[package]]
 name = "12angrymen"
-version = "0.0.1"
+version = "1.0.1"
 source = { virtual = "." }
 dependencies = [
     { name = "cuelist" },
     { name = "qlab" },
     { name = "screenplay-tools" },
-    { name = "showrunner" },
-    { name = "sqladmin" },
+    { name = "showrunner", extra = ["all"] },
     { name = "theatremix" },
 ]
 
@@ -32,9 +31,8 @@ dev = [
 requires-dist = [
     { name = "cuelist", editable = "../Cuelist-python" },
     { name = "qlab", editable = "../QLab-python" },
-    { name = "screenplay-tools", editable = "../screenplay-tools/python" },
-    { name = "showrunner", editable = "../ShowRunner" },
-    { name = "sqladmin", specifier = ">=0.24.0" },
+    { name = "screenplay-tools", specifier = ">=0.0.10" },
+    { name = "showrunner", extras = ["all"], specifier = ">=0.1.0" },
     { name = "theatremix", editable = "../TheatreMix-python" },
 ]
 
@@ -565,7 +563,7 @@ dependencies = [
 requires-dist = [
     { name = "pydantic", specifier = ">=2.0" },
     { name = "python-multipart" },
-    { name = "showrunner", editable = "../ShowRunner" },
+    { name = "showrunner", specifier = ">=0.1.0" },
 ]
 
 [[package]]
@@ -613,6 +611,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/43/fa/6d96a0978d19e17b68d634497769987b16c8f4cd0a7a05048bec693caa6b/decorator-5.2.1.tar.gz", hash = "sha256:65f266143752f734b0a7cc83c46f4618af75b8c5911b00ccb61d0ac9b6da0360", size = 56711, upload-time = "2025-02-24T04:41:34.073Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/4e/8c/f3147f5c4b73e7550fe5f9352eaa956ae838d5c51eb58e7a25b9f3e2643b/decorator-5.2.1-py3-none-any.whl", hash = "sha256:d316bb415a2d9e2d2b3abcc4084c6502fc09240e292cd76a76afc106a1c8e04a", size = 9190, upload-time = "2025-02-24T04:41:32.565Z" },
+]
+
+[[package]]
+name = "defusedxml"
+version = "0.7.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/0f/d5/c66da9b79e5bdb124974bfe172b4daf3c984ebd9c2a06e2b8a4dc7331c72/defusedxml-0.7.1.tar.gz", hash = "sha256:1bb3032db185915b62d7c6209c5a8792be6a32ab2fedacc84e01b52c51aa3e69", size = 75520, upload-time = "2021-03-08T10:59:26.269Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/07/6c/aa3f2f849e01cb6a001cd8554a88d4c77c5c1a31c95bdf1cf9301e6d9ef4/defusedxml-0.7.1-py2.py3-none-any.whl", hash = "sha256:a352e7e428770286cc899e2542b6cdaedb2b4953ff269a210103ec58f6198a61", size = 25604, upload-time = "2021-03-08T10:59:24.45Z" },
 ]
 
 [[package]]
@@ -719,9 +726,18 @@ wheels = [
 ]
 
 [[package]]
-name = "fountain"
-version = "0.1.0"
-source = { git = "https://github.com/quaternionmedia/fountain?branch=deduplicate#9f059d0ca202d1737cdf9ba03ab952ee2a9f9b3e" }
+name = "fpdf2"
+version = "2.8.7"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "defusedxml" },
+    { name = "fonttools" },
+    { name = "pillow" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/27/f2/72feae0b2827ed38013e4307b14f95bf0b3d124adfef4d38a7d57533f7be/fpdf2-2.8.7.tar.gz", hash = "sha256:7060ccee5a9c7ab0a271fb765a36a23639f83ef8996c34e3d46af0a17ede57f9", size = 362351, upload-time = "2026-02-28T05:39:16.456Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/66/0a/cf50ecffa1e3747ed9380a3adfc829259f1f86b3fdbd9e505af789003141/fpdf2-2.8.7-py3-none-any.whl", hash = "sha256:d391fc508a3ce02fc43a577c830cda4fe6f37646f2d143d489839940932fbc19", size = 327056, upload-time = "2026-02-28T05:39:14.619Z" },
+]
 
 [[package]]
 name = "frozenlist"
@@ -2736,7 +2752,6 @@ name = "qlab"
 version = "0.1.0"
 source = { editable = "../QLab-python" }
 dependencies = [
-    { name = "fountain" },
     { name = "pydantic" },
     { name = "python-osc" },
     { name = "showrunner" },
@@ -2745,10 +2760,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "fountain", git = "https://github.com/quaternionmedia/fountain?branch=deduplicate" },
     { name = "pydantic", specifier = ">=2.8.2" },
     { name = "python-osc", specifier = ">=1.8.3" },
-    { name = "showrunner", editable = "../ShowRunner" },
+    { name = "showrunner", specifier = ">=0.1.0" },
     { name = "sqlmodel", specifier = ">=0.0.27" },
 ]
 
@@ -2771,7 +2785,11 @@ wheels = [
 [[package]]
 name = "screenplay-tools"
 version = "0.0.10"
-source = { editable = "../screenplay-tools/python" }
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/7d/eb/db57082721d609d851879a851b47f83b031b309605e52e2e84711136a336/screenplay_tools-0.0.10.tar.gz", hash = "sha256:1a9d6126af3eae5c260bdadaa1e69001c0cc43882fad15c698d7a876a8a117b2", size = 25389, upload-time = "2026-01-05T16:04:15.459Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1a/02/b7f028f0d4fd26d6977cd38e3d7fa233b7eb5e776e68168f6dd2e3fcfad2/screenplay_tools-0.0.10-py3-none-any.whl", hash = "sha256:1b05d6ed4033bf6598ed6fe151c834f9e53ba9400b821005d430995706f83f46", size = 20937, upload-time = "2026-01-05T16:04:14.26Z" },
+]
 
 [[package]]
 name = "shellingham"
@@ -2785,35 +2803,26 @@ wheels = [
 [[package]]
 name = "showrunner"
 version = "0.1.0"
-source = { editable = "../ShowRunner" }
+source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "fastapi" },
     { name = "nicegui" },
     { name = "pluggy" },
+    { name = "screenplay-tools" },
     { name = "sqlmodel" },
-    { name = "typer" },
     { name = "watchfiles" },
 ]
-
-[package.metadata]
-requires-dist = [
-    { name = "fastapi", specifier = ">=0.135.2" },
-    { name = "nicegui", specifier = ">=2.0" },
-    { name = "pluggy", specifier = ">=1.6.0" },
-    { name = "sqlmodel", specifier = ">=0.0.37" },
-    { name = "typer", specifier = ">=0.24.1" },
-    { name = "watchfiles", specifier = ">=1.0.0" },
+sdist = { url = "https://files.pythonhosted.org/packages/6f/ae/422e3e7ff791bcf5a6f8b20b6a4d3baf1537ca2f3733e627338189cda131/showrunner-0.1.0.tar.gz", hash = "sha256:082d83b3633df6f8d4c78f72cf80c204da4ddeab77de2bf78c115ca7870545dd", size = 39445, upload-time = "2026-04-18T02:47:52.872Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/15/3b/934bb464d9585a47f662d4535f742064c65aa8a8681c9c381b675f4f0748/showrunner-0.1.0-py3-none-any.whl", hash = "sha256:ec2a127a1c5b751c30ad6f41dd05d26c43a9df2547388b27d3c105dbd244426b", size = 50518, upload-time = "2026-04-18T02:47:51.462Z" },
 ]
 
-[package.metadata.requires-dev]
-admin = [{ name = "sqladmin", specifier = ">=0.20.1" }]
-dev = [
-    { name = "black", specifier = ">=26.3.1" },
-    { name = "pytest", specifier = ">=9.0.2" },
-    { name = "ruff", specifier = ">=0.15.8" },
-    { name = "uvicorn", specifier = ">=0.42.0" },
+[package.optional-dependencies]
+all = [
+    { name = "fpdf2" },
+    { name = "sqladmin" },
+    { name = "typer" },
 ]
-docs = [{ name = "zensical", specifier = ">=0.0.31" }]
 
 [[package]]
 name = "simple-websocket"
@@ -2965,7 +2974,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "screenplay-tools", specifier = ">=0.0.10" },
-    { name = "showrunner", editable = "../ShowRunner" },
+    { name = "showrunner", specifier = ">=0.1.0" },
     { name = "sqlmodel", specifier = ">=0.0.27" },
 ]
 

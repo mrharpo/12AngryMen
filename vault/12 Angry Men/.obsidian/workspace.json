@@ -13,30 +13,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-16.md",
+                "file": "Shows/Performance 2 - Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-16"
+              "title": "Performance 2 - Friday"
             }
           },
           {
-            "id": "9cc297bc562065a2",
+            "id": "0aedb544186d4c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shows/Performance 1 - Thursday.md",
+                "file": "Shows/Performance 2 - Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance 1 - Thursday"
+              "title": "Performance 2 - Friday"
+            }
+          },
+          {
+            "id": "9f74e825fed4df0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Performance checklist template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance checklist template"
+            }
+          },
+          {
+            "id": "ddb39ff8631482de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-04-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "69bc789e82f69a67",
@@ -201,36 +227,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cc297bc562065a2",
+  "active": "0eb6d9c2846e08df",
   "lastOpenFiles": [
+    "Design/ShowRunner.md",
+    "Daily/2026-04-17.md",
     "Templates/Performance checklist template.md",
-    "Shows/Performance 1 - Thursday.md",
+    "Shows/Performance 2 - Friday.md",
     "Daily/2026-04-16.md",
+    "Design/Cast.md",
     "Templates/Other Checklists.md",
+    "Shows/Performance 1 - Thursday.md",
+    "Rehearsals/Dress Rehearsal 3.md",
+    "Meetings/2026-03-19.md",
+    "Excalidraw/Drawing 2026-04-16 00.16.45.excalidraw.md",
     "Daily/2026-04-15.md",
+    "Daily/2026-04-14.md",
+    "Templates/Checklist template.md",
+    "Shows/Checklist.md",
     "Meetings/Initial Designer's Meeting.md",
     "Daily/Untitled.md",
-    "Excalidraw/Drawing 2026-04-16 00.16.45.excalidraw.md",
     "Excalidraw",
-    "Meetings/2026-03-19.md",
     "Meetings/LD - virtual meeting 2.md",
-    "Design/Cast.md",
-    "Design/ShowRunner.md",
     "Design/Lights/Lighting Design.md",
-    "Rehearsals/Dress Rehearsal 3.md",
     "Daily/2026-03-27.md",
     "Daily/2026-04-06.md",
     "Daily/2026-04-10.md",
-    "Daily/2026-04-14.md",
     "Rehearsals",
     "Templates/Daily template.md",
     "Shows/Performance 2 - Wednesday.md",
-    "Shows/Checklist.md",
-    "Templates/Checklist template.md",
     "Daily/2026-04-13.md",
     "Daily/2026-04-11.md",
-    "Shows/Performance 1.md",
-    "Shows/Performance 2 - 15.md",
     "Shows",
     "Design/Lights",
     "Design/Projection",

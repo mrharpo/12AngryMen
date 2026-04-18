@@ -81,12 +81,12 @@ start:
 ---
 ## Curtain speech
 
-- [ ] Booth lights out
+- [ ] Booth lights dim
 
 ---
 ## Show
-- [ ] Start: 
-- [ ] End: 
+- [ ] Start
+- [ ] End
 ---
 ## Postflight
 
