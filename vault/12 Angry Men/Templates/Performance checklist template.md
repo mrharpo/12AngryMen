@@ -2,8 +2,10 @@
 created: <% tp.file.creation_date() %>
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
-- performance
+  - performance
+curtain:
 start:
+end:
 ---
 <%* const folder = app.vault.getAbstractFileByPath("Shows"); const n = folder ? folder.children.length : 1; await tp.file.rename("Performance " + n + " - " + moment().format("dddd")); -%>
 # Performance <% n %>
@@ -27,7 +29,7 @@ start:
 	- [ ] > Volume
 		- [ ] Mute lobby
 - [ ] 2nd Crestron
-	- [ ] House out
+	- [ ] House full
 	- [ ] Fixture power: on
 	- [ ] Work lights: off
 - [ ] Sound
@@ -43,25 +45,25 @@ start:
 	- [ ] Verify lights onstage
 - [ ] Primary computer
 	- [ ] Start computer
-  - [ ] TheatreMix
-    - [ ] Load TheatreMix showfile
-    - [ ] Connect TheatreMix to Sound board
-    - [ ] Load cue `0`
-    - [ ] Verify soundboard channels changed to actor names
-    - [ ] Load cue `0.1`
-    - [ ] Verify Main channel strip reads `0.1`
-  - [ ] Ardour
-    - [ ] Start Ardour
-    - [ ] Create new from show template
-  - [ ] QLab
-    - [ ] Load QLab showfile
-    - [ ] Preflight cue list
-	- [ ] `a0` Verify sound plays through speakers
-	- [ ] `s0` Verify TheatreMix responds
-	- [ ] `0.1` Verify lighting console responds
-	- [ ] `v1` Verify projection onstage
-	- [ ] `r0.1` Verify recording starts
-	- [ ] `r0.2` Verify recording stops
+	- [ ] QLab
+		- [ ] Load QLab showfile
+		- [ ] Preflight cue list
+		- [ ] `a0` Verify sound plays through speakers
+		- [ ] `s0` Verify TheatreMix responds
+		- [ ] `0.1` Verify lighting console responds
+		- [ ] `v1` Verify projection onstage
+		- [ ] `r0.1` Verify recording starts
+		- [ ] `r0.2` Verify recording stops
+	- [ ] TheatreMix
+		- [ ] Load TheatreMix showfile
+		- [ ] Connect TheatreMix to Sound board
+		- [ ] Load cue `0`
+		- [ ] Verify soundboard channels changed to actor names
+		- [ ] Load cue `0.1`
+		- [ ] Verify Main channel strip reads `0.1`
+	- [ ] Ardour
+		- [ ] Start Ardour
+		- [ ] Create new from show template
 - [ ] Mics
 	- [ ] Get mics from tech closet
 	- [ ] Add batteries to all mics
@@ -74,9 +76,9 @@ start:
 ## House open
 
 - [ ] goto `1` House open
-- [ ] Crestron
-	- [ ] unmute lobby
-- [ ] Set clock to `4:15`
+- [ ] Crestron 1 > unmute lobby
+- [ ] Crestron 2 > House out
+- [ ] Set clock to `4:05`
 
 ---
 ## Curtain speech

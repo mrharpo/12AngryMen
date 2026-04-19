@@ -1,6 +1,6 @@
 [project]
 name = "12angrymen"
-version = "1.0.1"
+version = "1.0.2"
 description = 'Production files for "12 Angry Men"'
 readme = "README.md"
 requires-python = ">=3.10"
